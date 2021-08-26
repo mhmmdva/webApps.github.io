@@ -68,7 +68,7 @@ li{
 .layout {
     margin: 5px auto;
     padding: 150px;
-    background-image: url("../gambar/coding.jpg");
+    background-image: url("./gambar/coding.jpg");
     background-size : cover;
     box-shadow: 10px 0px rgb(236, 236, 236);
     text-align: center;
